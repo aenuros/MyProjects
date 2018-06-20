@@ -1,0 +1,29 @@
+#conversation {
+  background-color:#000;
+  color:#0F0;
+  height:15em;
+  overflow:scroll;
+}
+
+.container {
+  width: 80%;
+  max-width: 500px;
+  margin: 10px auto;
+}
+
+.user {
+  color:#FF0;
+}
+
+.new-message {
+  text-align:center;
+  display:block;
+}
+
+.button-send {
+  text-align:center;
+}
+
+header {
+  text-align:center;
+}
